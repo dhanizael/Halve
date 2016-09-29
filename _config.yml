@@ -1,7 +1,7 @@
 # Site
-title: Halve
+title: Muhamad Hamdani
 description: Stylish, Two-Column Jekyll Theme
-url: http://taylantatli.me/Halve
+url: http://dhanizael.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,18 +29,18 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+#email:             email.mhamdani@gmail.com
 #google.plus:        username
-twitter:            username
+twitter:            dhanizael
 #facebook:           username
-github:             username
+github:             dhanizael
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+#linkedin:          dhanizael
 #xing:              username
-#instagram:          username
+#instagram:         dhanizael
 #lastfm:            username
-#tumblr:            username
-#pinterest:         username
+#tumblr:            dhanizael
+#pinterest:         dhanizael
 #foursquare:        username
 #steam:              username
 #dribbble:          username
